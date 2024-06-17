@@ -3,7 +3,7 @@
 <!--  -->
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Sebas021210/Sebas021210/blob/630526b12ff275270eba0f621d11adb92eea047f/icons/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -40,7 +40,7 @@
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
+## <img src="https://github.com/Sebas021210/Sebas021210/blob/630526b12ff275270eba0f621d11adb92eea047f/icons/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
