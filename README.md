@@ -14,15 +14,36 @@
 - Programming enthusiast, working with JavaScript, Python, C++, among others.
 - Aspiring to contribute to larger-scale projects with a positive impact.
 
-<br><br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
 <br>
+<div display="flex">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/HTML.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/CSS.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/JavaScript.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/C.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/CPP.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/Java-Dark.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/Python.svg" width="48">
+</div>
 
-<p align="center">
+<br>
 
+<div display="flex">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/React.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/VueJS.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/Angular.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/NodeJS.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/Webpack.svg" width="48">
+</div>
 
-</p>
+<br>
+
+<div display="flex">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/PostgreSQL.svg" width="48">
+<img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/MongoDB.svg" width="48">
+</div>
 
 <br>
 
@@ -42,7 +63,8 @@
 
 ## <img src="https://github.com/Sebas021210/Sebas021210/blob/630526b12ff275270eba0f621d11adb92eea047f/icons/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
-<div align='left'>
-
+<div display="flex">
+<a href="https://www.linkedin.com/in/sebasti%C3%A1n-jos%C3%A9-solorzano-p%C3%A9rez-7544b9205/"><img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/LinkedIn.svg" width="48"/>
+<a href="https://www.instagram.com/sebass.sp/"><img src="https://github.com/Sebas021210/Sebas021210/blob/2ad5b38d7873ba3cca08dec30591462b075499dd/icons/Instagram.svg" width="48"/>
 </div>
 
